@@ -44,7 +44,7 @@ The project includes:
 
 The database consists of five interconnected entities representing the core operations of the hotel chain: hotels, rooms, customers, reservations and invoices.
 
-![Database Schema](images/database-schema.png)
+![Database Schema](images/database-schema.png.jpeg)
 
 
 ## What I Practiced

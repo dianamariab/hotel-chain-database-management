@@ -1,6 +1,6 @@
 # Hotel Chain Database Management System
 
-This project was developed as part of my Oracle Database Management Systems coursework. The main objective was to design and implement a relational database for managing the activity of a hotel chain.
+This project was developed as part of my Oracle Database Management Systems coursework. The main objective was to design and implement a relational database for managing hotel operations.
 
 The database stores information about hotels, rooms, customers, reservations and invoices, allowing different operations related to bookings and financial data.
 
@@ -24,7 +24,7 @@ The tables are connected using primary and foreign keys.
 
 ![Database Schema](images/database-schema.png.jpeg)
 
-## What I worked on
+## What I implemented
 
 During this project, I created and populated the database and worked with different SQL and PL/SQL concepts.
 
@@ -33,7 +33,7 @@ Some of the main tasks included:
 - creating tables and relationships between them
 - inserting and updating data
 - writing queries using joins, filtering and aggregate functions
-- analyzing reservations, room prices and invoice values
+- writing queries to explore reservations, room prices and invoice data
 - working with PL/SQL control structures and loops
 - using cursors to process query results
 - handling exceptions
@@ -74,9 +74,7 @@ hotel-chain-database-management/
 
 This project helped me better understand how a relational database is designed and how different entities can be connected in order to represent a real-world scenario.
 
-I gained practical experience with SQL for creating, manipulating and analyzing data, as well as with PL/SQL concepts such as control structures, cursors, exception handling, functions and procedures.
-
-It also helped me understand how database queries can be used to extract useful information from stored data and answer practical questions related to reservations, pricing and financial activity.
+I gained practical experience with SQL for creating, manipulating and querying data, as well as with PL/SQL concepts such as control structures, cursors, exception handling, functions and procedures. I also learned how database queries can be used to extract useful information related to reservations, pricing and financial activity.
 
 ## Project Context
 
